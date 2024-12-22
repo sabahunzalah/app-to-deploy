@@ -1,0 +1,13 @@
+.btnStyling{
+    background-color: #4CAF50;
+    color: #fff;
+    border: transparent;
+    border-radius: 5px;
+    padding: 10px;
+   
+}
+.btnParent{
+    /* border: 2px solid red; */
+    display: flex;
+    flex-direction: row;
+}

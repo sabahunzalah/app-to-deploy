@@ -1,0 +1,7 @@
+.stdDiv{
+    box-shadow: 0 0 20px black;
+    border: 2px solid black;
+    display: inline-block;
+    padding: 10px;
+   
+}
